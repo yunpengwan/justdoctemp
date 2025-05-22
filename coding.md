@@ -1,6 +1,5 @@
 ---
-title: Tables
-parent: Coding
+title: coding
 nav_order: 3
 ---
 
