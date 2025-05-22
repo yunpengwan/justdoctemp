@@ -1,6 +1,6 @@
 ---
 title: Test2
-Layout: home
+Layout: test
 parent: Test
 ---
 
