@@ -1,6 +1,7 @@
 ---
 title: Test2
-nav_order: Test
+Layout: home
+Parent: Test
 ---
 
 # Test2
