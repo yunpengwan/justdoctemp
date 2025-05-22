@@ -1,5 +1,5 @@
 ---
-title: coding
+title: Coding
 nav_order: 3
 ---
 
