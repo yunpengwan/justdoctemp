@@ -1,9 +1,9 @@
 ---
-title: test1
+title: Test1
 parent: Test
 ---
 
-# Layout Utilities
+# Test1
 {: .no_toc }
 
 ## Table of contents
