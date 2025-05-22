@@ -3,6 +3,7 @@ title: Art
 layout: home
 nav_order: 6
 ---
-{: .highlight }
+{: .note-title }
+> strange tti
+>
 > Hello, How are you, try something interesting!
-{: .highlight }
