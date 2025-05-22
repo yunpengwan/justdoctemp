@@ -1,5 +1,6 @@
 ---
 title: Art
+layout: home
 nav_order: 6
 ---
 
