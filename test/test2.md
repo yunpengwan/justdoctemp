@@ -1,7 +1,7 @@
 ---
 title: Test2
 Layout: home
-Parent: Test
+parent: Test
 ---
 
 # Test2
