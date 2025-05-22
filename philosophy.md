@@ -20,10 +20,11 @@ View the field about philosophy.
 
 ## chinese ancient philosophy
 
-'''yaml
+```yaml
 The Daoism is very old and useful for future.
 There is Zhouyi which is more structured and written as music.
-'''
+```
+
 
 ## Western philosophy 
 
@@ -33,8 +34,7 @@ There is Zhouyi which is more structured and written as music.
 
 ## Modern philosophy
 
-'''markdown
+
 {: .warning}
-* God is dead.
+> God is dead.
 * And those who were seen dancing were thought to be insane by those who could not hear the music. -Nietzsche
-'''
